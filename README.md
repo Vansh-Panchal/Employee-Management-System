@@ -1,0 +1,4 @@
+The Employee Management System (EMS) is a Java-based desktop application designed to help organizations manage employee data in a structured and efficient manner. Developed using Java Swing and AWT for the GUI and JDBC for database operations, the application enables HR personnel and administrators to easily perform tasks such as adding new employees, editing employee records, tracking attendance, managing payroll, and generating performance reports. And there are two module one for employees and another for adminstrators because both have different tasks and power to contribute for organization.
+The system connects to a relational database  MySQL to store and retrieve employee information securely and consistently.
+To improve communication and make the system more effective, the EMS includes an integrated email feature using JavaMail API. This module allows the system to send automated or manual emails to employees or administrators.
+
